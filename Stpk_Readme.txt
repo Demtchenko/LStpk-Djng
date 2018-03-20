@@ -31,7 +31,7 @@
 
 Тогда при решении очередного задания необходимые действия будут сведены к минимуму:
 
-    git clone https://github.com/Demtchenko/Lrn-Stpk-Djng.git /home/box/web
+    git clone https://github.com/Demtchenko/LStpk-Djng.git /home/box/web
     bash /home/box/web/init.sh
 
 2) В директории /home/box (домашняя директория) создайте следующую структуру директорий
